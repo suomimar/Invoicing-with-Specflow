@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Invoicing/1.0.0": {
+        "dependencies": {
+          "Invoicing.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "Invoicing.dll": {}
+        }
+      },
+      "Invoicing.Interfaces/1.0.0": {
+        "runtime": {
+          "Invoicing.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Invoicing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Invoicing.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

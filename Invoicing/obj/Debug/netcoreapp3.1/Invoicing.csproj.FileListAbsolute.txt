@@ -1,0 +1,12 @@
+/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing/obj/Debug/netcoreapp3.1/Invoicing.csprojAssemblyReference.cache
+/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing/obj/Debug/netcoreapp3.1/Invoicing.AssemblyInfoInputs.cache
+/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing/obj/Debug/netcoreapp3.1/Invoicing.AssemblyInfo.cs
+/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing/obj/Debug/netcoreapp3.1/Invoicing.csproj.CoreCompileInputs.cache
+/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing/bin/Debug/netcoreapp3.1/Invoicing.deps.json
+/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing/bin/Debug/netcoreapp3.1/Invoicing.dll
+/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing/bin/Debug/netcoreapp3.1/Invoicing.pdb
+/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing/bin/Debug/netcoreapp3.1/Invoicing.Interfaces.dll
+/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing/bin/Debug/netcoreapp3.1/Invoicing.Interfaces.pdb
+/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing/obj/Debug/netcoreapp3.1/Invoicing.csproj.CopyComplete
+/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing/obj/Debug/netcoreapp3.1/Invoicing.dll
+/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing/obj/Debug/netcoreapp3.1/Invoicing.pdb

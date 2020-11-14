@@ -1,0 +1,4 @@
+/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing.NUnit.SpecflowTests/obj/Debug/netcoreapp3.1/Invoicing.NUnit.SpecflowTests.csprojAssemblyReference.cache
+/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing.NUnit.SpecflowTests/obj/Debug/netcoreapp3.1/Invoicing.NUnit.SpecflowTests.AssemblyInfoInputs.cache
+/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing.NUnit.SpecflowTests/obj/Debug/netcoreapp3.1/Invoicing.NUnit.SpecflowTests.AssemblyInfo.cs
+/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing.NUnit.SpecflowTests/obj/Debug/netcoreapp3.1/Invoicing.NUnit.SpecflowTests.csproj.CoreCompileInputs.cache

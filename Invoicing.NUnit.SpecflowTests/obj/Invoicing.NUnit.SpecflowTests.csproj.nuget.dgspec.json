@@ -1,0 +1,197 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing.NUnit.SpecflowTests/Invoicing.NUnit.SpecflowTests.csproj": {}
+  },
+  "projects": {
+    "/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing.Interfaces/Invoicing.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing.Interfaces/Invoicing.Interfaces.csproj",
+        "projectName": "Invoicing.Interfaces",
+        "projectPath": "/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing.Interfaces/Invoicing.Interfaces.csproj",
+        "packagesPath": "/Users/markussuominen/.nuget/packages/",
+        "outputPath": "/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing.Interfaces/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/markussuominen/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing.NUnit.SpecflowTests/Invoicing.NUnit.SpecflowTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing.NUnit.SpecflowTests/Invoicing.NUnit.SpecflowTests.csproj",
+        "projectName": "Invoicing.NUnit.SpecflowTests",
+        "projectPath": "/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing.NUnit.SpecflowTests/Invoicing.NUnit.SpecflowTests.csproj",
+        "packagesPath": "/Users/markussuominen/.nuget/packages/",
+        "outputPath": "/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing.NUnit.SpecflowTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/markussuominen/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing.Interfaces/Invoicing.Interfaces.csproj": {
+                "projectPath": "/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing.Interfaces/Invoicing.Interfaces.csproj"
+              },
+              "/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing/Invoicing.csproj": {
+                "projectPath": "/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing/Invoicing.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.4.31, )"
+            },
+            "SpecFlow.Tools.MsBuild.Generation": {
+              "target": "Package",
+              "version": "[3.4.31, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing/Invoicing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing/Invoicing.csproj",
+        "projectName": "Invoicing",
+        "projectPath": "/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing/Invoicing.csproj",
+        "packagesPath": "/Users/markussuominen/.nuget/packages/",
+        "outputPath": "/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/markussuominen/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing.Interfaces/Invoicing.Interfaces.csproj": {
+                "projectPath": "/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing.Interfaces/Invoicing.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

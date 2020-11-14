@@ -1,0 +1,9 @@
+/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing.Interfaces/bin/Debug/netcoreapp3.1/Invoicing.Interfaces.deps.json
+/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing.Interfaces/bin/Debug/netcoreapp3.1/Invoicing.Interfaces.dll
+/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing.Interfaces/bin/Debug/netcoreapp3.1/Invoicing.Interfaces.pdb
+/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing.Interfaces/obj/Debug/netcoreapp3.1/Invoicing.Interfaces.csprojAssemblyReference.cache
+/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing.Interfaces/obj/Debug/netcoreapp3.1/Invoicing.Interfaces.AssemblyInfoInputs.cache
+/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing.Interfaces/obj/Debug/netcoreapp3.1/Invoicing.Interfaces.AssemblyInfo.cs
+/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing.Interfaces/obj/Debug/netcoreapp3.1/Invoicing.Interfaces.csproj.CoreCompileInputs.cache
+/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing.Interfaces/obj/Debug/netcoreapp3.1/Invoicing.Interfaces.dll
+/Users/markussuominen/Projects/InvoicingWithSpecflow/Invoicing.Interfaces/obj/Debug/netcoreapp3.1/Invoicing.Interfaces.pdb
